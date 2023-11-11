@@ -1,0 +1,31 @@
+html {
+   text-align: center;
+   margin: auto;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background: orange linear-gradient(orange,#ff8c00);
+ }
+      
+h1 {
+   color: darkblue;
+   font-size: 3em; 
+   padding: 0,5em;
+}
+
+h2 {
+   padding: 3em ;
+   color: darkblue;
+   font-size: 2em;
+}
+
+.story{
+   background-color: orange linear-gradient(orange,#ff8c00);
+   padding-top: 1em ;
+   color: darkblue;
+   font-size: 2em;
+}
+
+.button{
+   background: orange linear-gradient(orange,#ff8c00);
+   text-align: center;
+   margin: auto;
+}
