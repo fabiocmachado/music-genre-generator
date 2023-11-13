@@ -8,20 +8,22 @@ html {
 h1 {
    color: darkblue;
    font-size: 3em; 
-   padding: 0,5em;
-}
+   margin: 1em;
+   box-shadow: 2px 2px 5px 5px darkblue;}
 
 h2 {
-   padding: 3em ;
+   margin: 2em;
    color: darkblue;
    font-size: 2em;
 }
 
 .story{
    background-color: orange linear-gradient(orange,#ff8c00);
-   padding-top: 1em ;
+   margin: 2em;
    color: darkblue;
    font-size: 2em;
+   
+
 }
 
 .button{
